@@ -41,7 +41,7 @@ PRIMARY KEY (songplay_id, start_time, user_id, session_id, location, user_agent)
 
 **Dimension tables**
 
-**i. users : user records showing personal details and level of subscription**
+**i. users : user records showing personal details**
 
 columns:
 
